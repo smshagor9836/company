@@ -1,0 +1,81 @@
+[
+    {
+        "Plugin Name": "Contactform",
+        "Version": 1.1,
+        "Description": "Contactform plugin for Lpress cms",
+        "Author": "Amcoders",
+        "Author URI": "https:\/\/codecanyon.net\/user\/amcoders",
+        "Text Domain": "contactform",
+        "status": "active"
+    },
+    {
+        "Plugin Name": "Ecommerce",
+        "Description": "amcoders",
+        "Author": "amcoders",
+        "Author URI": null,
+        "Version": "v0.0.1",
+        "License": "GNU General Public License v2 or later",
+        "Text Domain": "ecommerce",
+        "status": "active"
+    },
+    {
+        "Plugin Name": "service",
+        "Description": "amcoders",
+        "Author": "amcoders",
+        "Author URI": null,
+        "Version": "v1.0.0",
+        "License": "GNU General Public License v2 or later",
+        "Text Domain": "services",
+        "status": "active"
+    },
+    {
+        "Plugin Name": "Testimonials",
+        "Description": "Amcoders",
+        "Author": "Amcoders",
+        "Author URI": "Amcoders",
+        "Version": "V1.0",
+        "License": "GNU General Public License v2 or later",
+        "Text Domain": "Testimonials",
+        "status": "active"
+    },
+    {
+        "Plugin Name": "Team",
+        "Description": "AMCoders",
+        "Author": "AMCoders",
+        "Author URI": "AMCoders",
+        "Version": "v1.0",
+        "License": "GNU General Public License v2 or later",
+        "Text Domain": "Team",
+        "status": "active"
+    },
+    {
+        "Plugin Name": "Faq",
+        "Description": "AMCoders",
+        "Author": "AMCoders",
+        "Author URI": "AMCoders",
+        "Version": "v1.0",
+        "License": "GNU General Public License v2 or later",
+        "Text Domain": "Faq",
+        "status": "active"
+    },
+    {
+        "Plugin Name": "Zoom Live Metting",
+        "Description": "Amcoders",
+        "Author": "Amcoders",
+        "Author URI": "Amcoders",
+        "Version": "1.1",
+        "License": "GNU General Public License v2 or later",
+        "Text Domain": "zoom",
+        "status": "active"
+    },
+    {
+        "Plugin Name": "portfolio",
+        "Description": "amcoders",
+        "Author": "amcoders",
+        "Author URI": "amcoders",
+        "Version": null,
+        "License": "GNU General Public License v2 or later",
+        "Text Domain": "portfolio",
+        "status": "active"
+    }
+]

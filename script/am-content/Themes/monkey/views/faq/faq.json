@@ -1,0 +1,55 @@
+[
+    {
+        "name": "Breadcrumb",
+        "id": "faq_breadcrumb",
+        "icon": "flaticon-header",
+        "settings": [
+            {
+                "type": "bg_image",
+                "id": "faq_breadcrumb_bg_img",
+                "label": "Background Image",
+                "value": "http:\/\/localhost\/monkey_new\/script\/am-content\/Themes\/monkey\/public\/uploads\/2020-05-01-5eaba488aea26.jpg"
+            },
+            {
+                "type": "text",
+                "id": "faq_breadcrumb_title",
+                "label": "Breadcrumb Title",
+                "value": "FAQ'S"
+            },
+            {
+                "type": "text",
+                "id": "faq_breadcrumb_des",
+                "label": "Breadcrumb Description",
+                "value": "Home \/ FAQ'S"
+            }
+        ],
+        "content": null
+    },
+    
+    {
+        "name": "Quote Area",
+        "id": "faq_quote",
+        "icon": "flaticon-tag",
+        "settings": [
+            {
+                "type": "text",
+                "id": "faq_quote_title",
+                "label": "Title",
+                "value": "Here to Help Your Every Business Need."
+            },
+            {
+                "type": "textarea",
+                "id": "faq_quote_description",
+                "label": "Description",
+                "value": "We focus on the IT solutions, so you can focus on your business. See what we can do for you today!"
+            },
+            {
+                "type": "text",
+                "id": "faq_quote_button",
+                "label": "Quote Button Name",
+                "value": "get a free quote"
+            }
+        ],
+        "content": null
+    }
+]

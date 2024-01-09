@@ -1,0 +1,363 @@
+[
+	{
+        "name": "Header Area",
+        "id": "portfolio_header",
+        "icon": "flaticon-header",
+        "settings": [
+            {
+            	"type": "image",
+            	"id": "logo",
+            	"label": "Logo",
+            	"value": null
+            }
+        ],
+        "content": null
+    },
+    {
+    	"name": "Hero Area",
+    	"id": "portfolio_hero",
+    	"icon": "flaticon-clipboard",
+    	"settings": [
+    		{
+    			"type": "bg_image",
+    			"id": "hero_bg_img",
+    			"label": "Hero Area Image",
+    			"value": null
+    		},
+    		{
+    			"type": "text",
+    			"id": "hello_title",
+    			"label": "Title",
+    			"value": null
+    		},
+    		{
+    			"type": "text",
+    			"id": "hero_first_title",
+    			"label": "Title",
+    			"value": null
+    		},
+    		{
+    			"type": "textarea",
+    			"id": "hero_des",
+    			"label": "Description",
+    			"value": null
+    		},
+    		{
+    			"type": "text",
+    			"id": "button_first",
+    			"label": "First Button Title",
+    			"value": null
+    		},
+    		{
+    			"type": "link",
+    			"id": "button_first_link",
+    			"label": "First Button Link",
+    			"value": null
+    		},
+    		{
+    			"type": "text",
+    			"id": "button_secound",
+    			"label": "Secound Button Title",
+    			"value": null
+    		},
+    		{
+    			"type": "link",
+    			"id": "button_secound_link",
+    			"label": "Secound Button Link",
+    			"value": null
+    		}
+    	],
+    	"content": null
+    },
+    {
+    	"name": "About Area",
+    	"id": "portfolio_about",
+    	"icon": "flaticon-information",
+    	"settings": [
+    		{
+    			"type": "text",
+    			"id": "about_bg_title",
+    			"label": "Background Title",
+    			"value": null
+    		},
+    		{
+    			"type": "text",
+    			"id": "about_title",
+    			"label": "Title",
+    			"value": null
+    		},
+    		{
+    			"type": "image",
+    			"id": "about_bg_img",
+    			"label": "Image",
+    			"value": null
+    		},
+    		{
+    			"type": "text",
+    			"id": "about_right_title",
+    			"label": "Right Side Title",
+    			"value": null
+    		},
+    		{
+    			"type": "textarea",
+    			"id": "about_des",
+    			"label": "Description",
+    			"value": null
+    		},
+    		{
+    			"type": "text",
+    			"id": "your_name",
+    			"label": "Your Name",
+    			"value": null
+    		},
+    		{
+    			"type": "text",
+    			"id": "your_email",
+    			"label": "Your Email",
+    			"value": null
+    		},
+    		{
+    			"type": "text",
+    			"id": "your_age",
+    			"label": "Your Age",
+    			"value": null
+    		},
+    		{
+    			"type": "text",
+    			"id": "your_phone",
+    			"label": "Your Phone",
+    			"value": null
+    		},
+    		{
+    			"type": "text",
+    			"id": "your_job",
+    			"label": "Your Job",
+    			"value": null
+    		},
+    		{
+    			"type": "text",
+    			"id": "your_location",
+    			"label": "Your Location",
+    			"value": null
+    		}
+    	],
+    	"content": null
+    },
+    {
+    	"name": "Service Area",
+    	"id": "portfolio_service",
+    	"icon": "flaticon-plugin",
+    	"settings": [
+    		{
+    			"type": "text",
+    			"id": "service_bg_title",
+    			"label": "Service Background Title",
+    			"value": null
+    		},
+    		{
+    			"type": "text",
+    			"id": "service_title",
+    			"label": "Service Title",
+    			"value": null
+    		}
+    	],
+    	"content": null
+    },
+    {
+    	"name": "Resume Area",
+    	"id": "resume_id",
+    	"icon": "flaticon-cv",
+    	"settings": [
+    		{
+    			"type": "text",
+    			"id": "resume_background_title",
+    			"label": "Resume Background Title",
+    			"value": null
+    		},
+    		{
+    			"type": "text",
+    			"id": "resume_title",
+    			"label": "Resume Title",
+    			"value": null
+    		},
+            {
+                "type": "text",
+                "id": "education_title",
+                "label": "Education Title",
+                "value": null
+            },
+            {
+                "type": "text",
+                "id": "experience_title",
+                "label": "Experience Title",
+                "value": null
+            },
+            {
+                "type": "text",
+                "id": "skill_title",
+                "label": "Skills Title",
+                "value": null
+            }
+    	],
+    	"content": null
+    },
+    {
+        "name": "Portfolio Area",
+        "id": "portfolio_section",
+        "icon": "flaticon-portfolio",
+        "settings": [
+            {
+                "type": "text",
+                "id": "portfolio_bg_title",
+                "label": "Portfolio Background Title",
+                "value": null
+            },
+            {
+                "type": "text",
+                "id": "portfolio_title",
+                "label": "Title",
+                "value": null
+            }
+        ],
+        "content": null
+    },
+    {
+        "name": "Review Area",
+        "id": "review_section",
+        "icon": "flaticon-review-1",
+        "settings": [
+            {
+                "type": "text",
+                "id": "review_bg_title",
+                "label": "Review Background Title",
+                "value": null
+            },
+            {
+                "type": "text",
+                "id": "review_title",
+                "label": "Title",
+                "value": null
+            }
+        ],
+        "content": null
+    },
+    {
+        "name": "Contact Area",
+        "id": "portfolio_contact",
+        "icon": "flaticon-mail",
+        "settings": [
+            {
+                "type": "text",
+                "id": "contact_bg_title",
+                "label": "Contact Background Title",
+                "value": null
+            },
+            {
+                "type": "text",
+                "id": "contact_title",
+                "label": "Title",
+                "value": null
+            },
+            {
+                "type": "text",
+                "id": "contact_btn",
+                "label": "Button Title",
+                "value": null
+            }
+        ],
+        "content": [
+            {
+                "name": "First Section",
+                "id": "contact_first_section",
+                "settings": [
+                    {
+                        "type": "text",
+                        "id": "contact_first_section_title",
+                        "label": "Title",
+                        "value": null
+                    },
+                    {
+                        "type": "text",
+                        "id": "contact_first_section_phone",
+                        "label": "Phone Number",
+                        "value": null
+                    }
+                ]
+            },
+            {
+                "name": "Secound Section",
+                "id": "contact_secound_section",
+                "settings": [
+                    {
+                        "type": "text",
+                        "id": "contact_secound_section_title",
+                        "label": "Title",
+                        "value": null
+                    },
+                    {
+                        "type": "text",
+                        "id": "contact_secound_section_email",
+                        "label": "Email",
+                        "value": null
+                    }
+                ]
+            },
+            {
+                "name": "Third Section",
+                "id": "contact_third_section",
+                "settings": [
+                    {
+                        "type": "text",
+                        "id": "contact_third_section_title",
+                        "label": "Title",
+                        "value": null
+                    },
+                    {
+                        "type": "text",
+                        "id": "contact_third_section_location",
+                        "label": "Location",
+                        "value": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "footer",
+        "id": "portfolio_footer",
+        "icon": "flaticon-footer",
+        "settings": [
+            {
+                "type": "text",
+                "id": "portfolio_copyright",
+                "label": "Copyright Content",
+                "value": null
+            },
+            {
+                "type": "link",
+                "id": "portfolio_facebook",
+                "label": "Facebook Profile Link",
+                "value": null
+            },
+            {
+                "type": "link",
+                "id": "portfolio_twitter",
+                "label": "Twitter Profile Link",
+                "value": null
+            },
+            {
+                "type": "link",
+                "id": "portfolio_linkedin",
+                "label": "Linkedin Profile Link",
+                "value": null
+            },
+            {
+                "type": "link",
+                "id": "portfolio_instagram",
+                "label": "Instagram Profile Link",
+                "value": null
+            }
+        ],
+        "content": null
+    }
+]

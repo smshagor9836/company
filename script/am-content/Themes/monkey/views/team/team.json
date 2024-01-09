@@ -1,0 +1,55 @@
+[
+    {
+        "name": "Breadcrumb",
+        "id": "team_breadcrumb",
+        "icon": "flaticon-header",
+        "settings": [
+            {
+                "type": "bg_image",
+                "id": "team_breadcrumb_bg_img",
+                "label": "Background Image",
+                "value": "script\/am-content\/Themes\/monkey\/public\/uploads\/2020-05-02-5ead27097250f.jpg"
+            },
+            {
+                "type": "text",
+                "id": "team_breadcrumb_title",
+                "label": "Breadcrumb Title",
+                "value": "Team Member"
+            },
+            {
+                "type": "text",
+                "id": "team_breadcrumb_des",
+                "label": "Breadcrumb Description",
+                "value": "Home \/ Team Member"
+            }
+        ],
+        "content": null
+    },
+    
+    {
+        "name": "Quote Area",
+        "id": "team_quote",
+        "icon": "flaticon-tag",
+        "settings": [
+            {
+                "type": "text",
+                "id": "team_quote_title",
+                "label": "Title",
+                "value": "Here to Help Your Every Business Need."
+            },
+            {
+                "type": "textarea",
+                "id": "team_quote_description",
+                "label": "Description",
+                "value": "We focus on the IT solutions, so you can focus on your business. See what we can do for you today!"
+            },
+            {
+                "type": "text",
+                "id": "team_quote_button",
+                "label": "Quote Button Name",
+                "value": "get a free quote"
+            }
+        ],
+        "content": null
+    }
+]

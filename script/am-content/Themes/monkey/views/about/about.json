@@ -1,0 +1,154 @@
+[
+    {
+        "name": "Breadcrumb",
+        "id": "breadcrumb",
+        "icon": "flaticon-header",
+        "settings": [
+            {
+                "type": "bg_image",
+                "id": "breadcrumb_bg_img",
+                "label": "Background Image",
+                "value": "script\/am-content\/Themes\/monkey\/public\/uploads\/2020-05-02-5ead265bd2251.jpg"
+            },
+            {
+                "type": "text",
+                "id": "breadcrumb_title",
+                "label": "Breadcrumb Title",
+                "value": "About us"
+            },
+            {
+                "type": "text",
+                "id": "breadcrumb_des",
+                "label": "Breadcrumb Description",
+                "value": "Home \/ About Us"
+            }
+        ],
+        "content": null
+    },
+    {
+        
+        "name": "Main Area",
+        "id": "about_ex",
+        "icon": "flaticon-web-programming",
+        "settings": null,
+        "content": [
+            {
+                "name": "First Section",
+                "id": "about_ex_first",
+                "settings": [
+                    {
+                        "type": "image",
+                        "id": "about_ex_first_img",
+                        "label": "Icon Image",
+                        "value": "script\/am-content\/Themes\/monkey\/public\/uploads\/2020-05-02-5ead2675a3249.png"
+                    },
+                    {
+                        "type": "text",
+                        "id": "about_ex_first_num",
+                        "label": "Total",
+                        "value": "250"
+                    },
+                    {
+                        "type": "text",
+                        "id": "about_ex_first_title",
+                        "label": "Title",
+                        "value": "Valued Clients"
+                    },
+                    {
+                        "type": "textarea",
+                        "id": "about_ex_first_des",
+                        "label": "Description",
+                        "value": "Our vertical solutions expertise allows your business to streamline workflow, and increase productivity."
+                    }
+                ]
+            },
+            {
+                "name": "second Section",
+                "id": "about_ex_second",
+                "settings": [
+                    {
+                        "type": "image",
+                        "id": "about_ex_second_img",
+                        "label": "Icon Image",
+                        "value": "script\/am-content\/Themes\/monkey\/public\/uploads\/2020-05-02-5ead267c54be7.png"
+                    },
+                    {
+                        "type": "text",
+                        "id": "about_ex_second_num",
+                        "label": "Total",
+                        "value": "350"
+                    },
+                    {
+                        "type": "text",
+                        "id": "about_ex_second_title",
+                        "label": "Title",
+                        "value": "Complete Project"
+                    },
+                    {
+                        "type": "textarea",
+                        "id": "about_ex_second_des",
+                        "label": "Description",
+                        "value": "Our vertical solutions expertise allows your business to streamline workflow, and increase productivity."
+                    }
+                ]
+            },
+            
+            {
+                "name": "Third Section",
+                "id": "about_ex_third",
+                "settings": [
+                    {
+                        "type": "image",
+                        "id": "about_ex_third_img",
+                        "label": "Icon Image",
+                        "value": "script\/am-content\/Themes\/monkey\/public\/uploads\/2020-05-02-5ead2681e9638.png"
+                    },
+                    {
+                        "type": "text",
+                        "id": "about_ex_third_num",
+                        "label": "Total",
+                        "value": "250"
+                    },
+                    {
+                        "type": "text",
+                        "id": "about_ex_third_title",
+                        "label": "Title",
+                        "value": "Support Request"
+                    },
+                    {
+                        "type": "textarea",
+                        "id": "about_ex_third_des",
+                        "label": "Description",
+                        "value": "Our vertical solutions expertise allows yjhghjghour business to streamline workflow, and increase productivity."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Quote Area",
+        "id": "quote",
+        "icon": "flaticon-tag",
+        "settings": [
+            {
+                "type": "text",
+                "id": "quote_title",
+                "label": "Title",
+                "value": "Here to Help Your Every Business Need."
+            },
+            {
+                "type": "textarea",
+                "id": "quote_description",
+                "label": "Description",
+                "value": "We focus on the IT solutions, so you can focus on your business. See what we can do for you today!"
+            },
+            {
+                "type": "text",
+                "id": "quote_button",
+                "label": "Quote Button Name",
+                "value": "get a free quote"
+            }
+        ],
+        "content": null
+    }
+]

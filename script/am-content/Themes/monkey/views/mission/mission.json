@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Breadcrumb",
+        "id": "mission_breadcrumb",
+        "icon": "flaticon-header",
+        "settings": [
+            {
+                "type": "bg_image",
+                "id": "mission_breadcrumb_bg_img",
+                "label": "Background Image",
+                "value": "script\/am-content\/Themes\/monkey\/public\/uploads\/2020-05-02-5ead27456fbd6.jpg"
+            },
+            {
+                "type": "text",
+                "id": "mission_breadcrumb_title",
+                "label": "Breadcrumb Title",
+                "value": "Mission & Value"
+            },
+            {
+                "type": "text",
+                "id": "mission_breadcrumb_des",
+                "label": "Breadcrumb Description",
+                "value": "Home \/ Mission & Vakue"
+            }
+        ],
+        "content": null
+    },
+    {
+        "name": "Mission Area",
+        "id": "mission",
+        "icon": "flaticon-clipboard",
+        "settings": [
+            {
+                "type": "image",
+                "id": "mission_img",
+                "label": "Mission image",
+                "value": "script\/am-content\/Themes\/monkey\/public\/uploads\/2020-05-02-5ead274d869eb.jpg"
+            },
+            {
+                "type": "text",
+                "id": "mission_title",
+                "label": "Misssion Title",
+                "value": "Our Mission"
+            },
+            {
+                "type": "textarea",
+                "id": "mission_des",
+                "label": "Misssion Description",
+                "value": "Our mission is to help customers achieve their business objectives by providing innovative, best-in-class consulting, IT solutions and services and to make it a joy for all stakeholders to work with us. We function as a full stakeholder to business, offering a consulting-led approach with an integrated portfolio of technology led solutions that encompass the entire Enterprise value chain.Our Customer-centric Engagement Model defines how we do engage with you, offering specialized services and solutions that meet the distinct needs of your business.We have made significant investments in Digital platforms and products spanning Technology Products, Horizontal Platforms and Products, Vertical Platforms and Products. Our Drive and Vision"
+            }
+        ],
+        "content": null
+    },
+    {
+        "name": "Value Area",
+        "id": "mission_values",
+        "icon": "flaticon-writing",
+        "settings": [
+            {
+                "type": "text",
+                "id": "mission_values_title",
+                "label": "Misssion Title",
+                "value": "Our Drive & Vision"
+            },
+            {
+                "type": "textarea",
+                "id": "mission_values_des",
+                "label": "Misssion Description",
+                "value": "Our success is built on the trust we earned from clients. We work shoulder-to- shoulder with our clients to solve complex challenges in ways that minimize business risk and maximize opportunity.\n\nOur Customer-centric Engagement Model defines how we do engage with you, offering specialized services and solutions that meet the distinct needs of your business.We have made significant investments in Digital platform\n\nOur success is built on the trust we earned from clients. We work shoulder-to- shoulder with our clients to solve complex challenges in ways that minimize business risk and maximize opportunity."
+            },
+            {
+                "type": "image",
+                "id": "mission_values_img",
+                "label": "Value image",
+                "value": "script\/am-content\/Themes\/monkey\/public\/uploads\/2020-05-02-5ead2759cea97.jpg"
+            }
+        ],
+        "content": null
+    },
+    {
+        "name": "Quote Area",
+        "id": "mission_quote",
+        "icon": "flaticon-tag",
+        "settings": [
+            {
+                "type": "text",
+                "id": "mission_quote_title",
+                "label": "Title",
+                "value": "Here to Help Your Every Business Need."
+            },
+            {
+                "type": "textarea",
+                "id": "mission_quote_description",
+                "label": "Description",
+                "value": "We focus on the IT solutions, so you can focus on your business. See what we can do for you today!"
+            },
+            {
+                "type": "text",
+                "id": "mission_quote_button",
+                "label": "Quote Button Name",
+                "value": "get a free quote"
+            }
+        ],
+        "content": null
+    }
+]

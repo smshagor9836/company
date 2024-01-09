@@ -1,0 +1,98 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    button.btn {
+        margin-bottom: 8px;
+    }
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    button.btn.btn-save {
+        margin-bottom: 8px;
+    }
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .col-lg-2.logo-area {
+        width: 240px;
+        position: absolute;
+    }
+    .hamburger {
+        position: absolute;
+        left: 15rem;
+    }
+    .sidebar{
+        margin-left: -220px;
+        margin-top: 71px;
+    }
+   
+    .sidebar.active {
+        margin-left: 0;
+    }
+    .main-content-area {
+        margin-left: 0;
+    }
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    .col-lg-2.logo-area {
+        width: 240px;
+        position: absolute;
+    }
+    .hamburger {
+        position: absolute;
+        left: 15rem;
+    }
+    .sidebar{
+        margin-left: -220px;
+        margin-top: 71px;
+    }
+   
+    .sidebar.active {
+        margin-left: 0;
+    }
+    .main-content-area {
+        margin-left: 0;
+    }
+    .hamburger {
+        margin-left: auto;
+        margin-right: auto;
+        position: absolute;
+        left: 21px;
+    }
+    .col-lg-2.logo-area {
+        display: none;
+    }
+ 
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+    .col-lg-2.logo-area {
+        width: 240px;
+        position: absolute;
+    }
+    .hamburger {
+        position: absolute;
+        left: 15rem;
+    }
+    .sidebar{
+        margin-left: -220px;
+    }
+    .sidebar.active {
+        margin-left: 0;
+    }
+    .main-content-area {
+        margin-left: 0;
+    }
+    .hamburger {
+        position: absolute;
+        left: 20px;
+    }
+}

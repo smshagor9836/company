@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Breadcrumb",
+        "id": "whychosse_breadcrumb",
+        "icon": "flaticon-header",
+        "settings": [
+            {
+                "type": "bg_image",
+                "id": "whychosse_breadcrumb_bg_img",
+                "label": "Background Image",
+                "value": "script\/am-content\/Themes\/monkey\/public\/uploads\/2020-05-02-5ead271e6651b.jpg"
+            },
+            {
+                "type": "text",
+                "id": "whychosse_breadcrumb_title",
+                "label": "Breadcrumb Title",
+                "value": "Why Choose Us"
+            },
+            {
+                "type": "text",
+                "id": "whychosse_breadcrumb_des",
+                "label": "Breadcrumb Description",
+                "value": "Home \/ Why Choose Us"
+            }
+        ],
+        "content": null
+    },
+    {
+        "name": "Service Area",
+        "id": "service",
+        "icon": "flaticon-clipboard",
+        "settings": [
+            {
+                "type": "text",
+                "id": "service_title",
+                "label": "Service Title",
+                "value": "Professional Services"
+            },
+            {
+                "type": "textarea",
+                "id": "service_des",
+                "label": "Service Description",
+                "value": "We help agencies to define their new business objectives and then create the road map."
+            }
+        ],
+        "content": null
+    },
+    {
+        "name": "Quote Area",
+        "id": "service_quote",
+        "icon": "flaticon-tag",
+        "settings": [
+            {
+                "type": "text",
+                "id": "service_quote_title",
+                "label": "Title",
+                "value": "Here to Help Your Every Business Need."
+            },
+            {
+                "type": "textarea",
+                "id": "service_quote_description",
+                "label": "Description",
+                "value": "We focus on the IT solutions, so you can focus on your business. See what we can do for you today!"
+            },
+            {
+                "type": "text",
+                "id": "service_quote_button",
+                "label": "Quote Button Name",
+                "value": "get a free quote"
+            }
+        ],
+        "content": null
+    }
+]

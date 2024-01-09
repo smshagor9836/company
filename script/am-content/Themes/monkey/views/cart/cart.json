@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Breadcrumb",
+        "id": "cart_breadcrumb",
+        "icon": "flaticon-header",
+        "settings": [
+            {
+                "type": "bg_image",
+                "id": "cart_breadcrumb_bg_img",
+                "label": "Background Image",
+                "value": "http:\/\/localhost\/monkey\/script\/am-content\/Themes\/monkey\/public\/uploads\/2020-04-27-5ea67940621d3.jpg"
+            },
+            {
+                "type": "text",
+                "id": "cart_breadcrumb_title",
+                "label": "Breadcrumb Title",
+                "value": "Shopping Cart"
+            },
+            {
+                "type": "text",
+                "id": "cart_breadcrumb_des",
+                "label": "Breadcrumb Description",
+                "value": "Home \/ Shopping Cart"
+            }
+        ],
+        "content": null
+    },
+    {
+        "name": "Cart Area",
+        "id": "cart",
+        "icon": "flaticon-shopping-bag",
+        "settings": [
+            {
+                "type": "text",
+                "id": "cart_title",
+                "label": "Cart label",
+                "value": "Shopping Cart"
+            },
+            {
+                "type": "text",
+                "id": "cart_shopping_title",
+                "label": "Shopping Button Name",
+                "value": "Continue Shopping"
+            },
+            {
+                "type": "text",
+                "id": "checkout_title",
+                "label": "Checkout Button Name",
+                "value": "Checkout"
+            }
+        ],
+        "content": null
+    },
+    {
+        "name": "Quote Area",
+        "id": "cart_quote",
+        "icon": "flaticon-tag",
+        "settings": [
+            {
+                "type": "text",
+                "id": "cart_quote_title",
+                "label": "Title",
+                "value": "Here to Help Your Every Business Need."
+            },
+            {
+                "type": "textarea",
+                "id": "cart_quote_description",
+                "label": "Description",
+                "value": "We focus on the IT solutions, so you can focus on your business. See what we can do for you today!"
+            },
+            {
+                "type": "text",
+                "id": "cart_quote_button",
+                "label": "Quote Button Name",
+                "value": "get a free quote"
+            }
+        ],
+        "content": null
+    }
+]

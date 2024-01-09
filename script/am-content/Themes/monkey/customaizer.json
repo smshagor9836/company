@@ -1,0 +1,74 @@
+[
+    {
+        "page_name": "Home Page",
+        "page_url": "\/",
+        "file_location": "welcome\/home.json",
+        "status": "active"
+    },
+    {
+        "page_name": "About Page",
+        "page_url": "\/about",
+        "file_location": "about\/about.json",
+        "status": "deactive"
+    },
+    {
+        "page_name": "Team Page",
+        "page_url": "\/team",
+        "file_location": "team\/team.json",
+        "status": "deactive"
+    },
+    {
+        "page_name": "WhyChoose Page",
+        "page_url": "\/whychoose",
+        "file_location": "whychoose\/whychoose.json",
+        "status": "deactive"
+    },
+    {
+        "page_name": "Mission Page",
+        "page_url": "\/mission",
+        "file_location": "mission\/mission.json",
+        "status": "deactive"
+    },
+    {
+        "page_name": "Faq Page",
+        "page_url": "\/faq",
+        "file_location": "faq\/faq.json",
+        "status": "deactive"
+    },
+    {
+        "page_name": "Contact Page",
+        "page_url": "\/contact",
+        "file_location": "contact\/contact.json",
+        "status": "deactive"
+    },
+    {
+        "page_name": "Shop Page",
+        "page_url": "\/shop",
+        "file_location": "product\/shop.json",
+        "status": "deactive"
+    },
+    {
+        "page_name": "Cart Page",
+        "page_url": "\/cart",
+        "file_location": "cart\/cart.json",
+        "status": "deactive"
+    },
+    {
+        "page_name": "Checkout Page",
+        "page_url": "\/checkout",
+        "file_location": "checkout\/checkout.json",
+        "status": "deactive"
+    },
+    {
+        "page_name": "Service Page",
+        "page_url": "\/service",
+        "file_location": "service\/service.json",
+        "status": "deactive"
+    },
+    {
+        "page_name": "Blog Page",
+        "page_url": "\/blog",
+        "file_location": "blog\/blog.json",
+        "status": "deactive"
+    }
+]

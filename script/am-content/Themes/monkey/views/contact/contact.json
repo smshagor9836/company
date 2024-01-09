@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Breadcrumb",
+        "id": "contact_breadcrumb",
+        "icon": "flaticon-header",
+        "settings": [
+            {
+                "type": "bg_image",
+                "id": "contact_breadcrumb_bg_img",
+                "label": "Background Image",
+                "value": "http:\/\/localhost\/monkey\/script\/am-content\/Themes\/monkey\/public\/uploads\/2020-04-27-5ea67d0dc36e8.jpg"
+            },
+            {
+                "type": "text",
+                "id": "contact_breadcrumb_title",
+                "label": "Breadcrumb Title",
+                "value": "Contact Us"
+            },
+            {
+                "type": "text",
+                "id": "contact_breadcrumb_des",
+                "label": "Breadcrumb Description",
+                "value": "Home \/ Contact Us"
+            }
+        ],
+        "content": null
+    },
+    {
+        "name": "Contact Area",
+        "id": "contact",
+        "icon": "flaticon-support",
+        "settings": [
+            {
+                "type": "text",
+                "id": "contact_title",
+                "label": "Contact Title",
+                "value": "Contact Us"
+            },
+            {
+                "type": "textarea",
+                "id": "contact_des",
+                "label": "Contact Description",
+                "value": "We help agencies to define their new business objectives and then create the road map."
+            },
+            {
+                "type": "text",
+                "id": "contact_button_label",
+                "label": "Button Name",
+                "value": "Send Message"
+            }
+        ],
+        "content": null
+    }
+]

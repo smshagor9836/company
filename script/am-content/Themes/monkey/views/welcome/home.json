@@ -1,0 +1,476 @@
+[
+    {
+        "name": "Header Area",
+        "id": "header",
+        "icon": "flaticon-header",
+        "settings": [
+            {
+                "type": "text",
+                "id": "header_left_notify",
+                "label": "Header Notify Message",
+                "value": "Now Hiring: Are you a Professional laravel Developer?"
+            },
+            {
+                "type": "text",
+                "id": "header_phone_number",
+                "label": "Phone Number",
+                "value": "+44 7911 123456"
+            },
+            {
+                "type": "text",
+                "id": "header_address",
+                "label": "Address",
+                "value": "26 Westport St. Lancaster, CA 93535"
+            },
+            {
+                "type": "image",
+                "id": "header_logo",
+                "label": "Logo",
+                "value": "script\/am-content\/Themes\/monkey\/public\/uploads\/2020-05-02-5ead2348087f2.png"
+            }
+        ],
+        "content": null
+    },
+    {
+        "name": "Hero Area",
+        "id": "hero",
+        "icon": "flaticon-clipboard",
+        "settings": [
+            {
+                "type": "bg_image",
+                "id": "hero_image",
+                "label": "Hero Image",
+                "value": "script\/am-content\/Themes\/monkey\/public\/uploads\/2020-05-02-5ead220742367.jpg"
+            },
+            {
+                "type": "text",
+                "id": "hero_small_title",
+                "label": "Small Title",
+                "value": "\/\/ Only High Quality Service"
+            },
+            {
+                "type": "text",
+                "id": "hero_main_title",
+                "label": "Main Title",
+                "value": "SOFTWARE IT OUTSOUECING"
+            },
+            {
+                "type": "textarea",
+                "id": "hero_des",
+                "label": "Description",
+                "value": "We are 100+ professional software engineers with more than 10 years of experience in delivering superior products."
+            },
+            {
+                "type": "text",
+                "id": "hero_button",
+                "label": "Button Label",
+                "value": "learn more"
+            },
+            {
+                "type": "link",
+                "id": "hero_button_link",
+                "label": "Button Link",
+                "value": "#"
+            }
+        ],
+        "content": null
+    },
+    
+    {
+        "name": "About Area",
+        "id": "about",
+        "icon": "flaticon-information",
+        "settings": [
+            {
+                "type": "text",
+                "id": "about_small_title",
+                "label": "Small Title",
+                "value": "OUR company"
+            },
+            {
+                "type": "text",
+                "id": "about_main_title",
+                "label": "Main Title",
+                "value": "We\u2019ve been thriving in 38 years"
+            },
+            {
+                "type": "textarea",
+                "id": "about_des",
+                "label": "Description",
+                "value": "Mitech specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. We put a strong focus on the needs of your business to figure out solutions that best fits your demand and nail it."
+            },
+            {
+                "type": "text",
+                "id": "about_button",
+                "label": "Button Label",
+                "value": "Join Us Now"
+            },
+            {
+                "type": "link",
+                "id": "about_button_link",
+                "label": "Button Link",
+                "value": "#"
+            }
+        ],
+        "content": [
+            {
+                "name": "Single Question One",
+                "id": "question_section_one",
+                "settings": [
+                    {
+                        "type": "text",
+                        "id": "question_section_one_title",
+                        "label": "Question",
+                        "value": "How we can help your business?"
+                    },
+                    {
+                        "type": "link",
+                        "id": "question_section_one_link",
+                        "label": "Question Link",
+                        "value": "#"
+                    }
+                ]
+            },
+            {
+                "name": "Single Question Two",
+                "id": "question_section_two",
+                "settings": [
+                    {
+                        "type": "text",
+                        "id": "question_section_two_title",
+                        "label": "Question",
+                        "value": "Why become our partner?"
+                    },
+                    {
+                        "type": "link",
+                        "id": "question_section_two_link",
+                        "label": "Question Link",
+                        "value": "#"
+                    }
+                ]
+            },
+            {
+                "name": "Single Question Three",
+                "id": "question_section_three",
+                "settings": [
+                    {
+                        "type": "text",
+                        "id": "question_section_three_title",
+                        "label": "Question",
+                        "value": " What are the best of Mitech?"
+                    },
+                    {
+                        "type": "link",
+                        "id": "question_section_three_link",
+                        "label": "Question Link",
+                        "value": "#"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Service Area",
+        "id": "service",
+        "icon": "flaticon-plugin",
+        "settings": [
+            {
+                "type": "text",
+                "id": "service_title",
+                "label": "Service Title",
+                "value": "Professional Services"
+            },
+            {
+                "type": "textarea",
+                "id": "service_des",
+                "label": "Service Description",
+                "value": "We help agencies to define their new business objectives and then create the road map."
+            }
+        ],
+        "content": null
+    },
+    {
+        "name": "Counter Area",
+        "id": "counter",
+        "icon": "flaticon-star",
+        "settings": [
+            {
+                "type": "bg_image",
+                "id": "counter_img",
+                "label": "Background Image",
+                "value": "script\/am-content\/Themes\/monkey\/public\/uploads\/2020-05-02-5ead24797808d.jpg"
+            }
+        ],
+        "content": [
+            {
+                "name": "Counter First Section",
+                "id": "counter_first",
+                "settings": [
+                    {
+                        "type": "image",
+                        "id": "counter_first_img",
+                        "label": "Icon Image",
+                        "value": "script\/am-content\/Themes\/monkey\/public\/uploads\/2020-05-02-5ead248a6726b.png"
+                    },
+                    {
+                        "type": "text",
+                        "id": "counter_first_number",
+                        "label": "Total Number",
+                        "value": "968"
+                    },
+                    {
+                        "type": "text",
+                        "id": "counter_first_title",
+                        "label": "Title",
+                        "value": "Total AWARDS"
+                    }
+                ]
+            },
+            {
+                "name": "Counter Second Section",
+                "id": "counter_second",
+                "settings": [
+                    {
+                        "type": "image",
+                        "id": "counter_second_img",
+                        "label": "Icon Image",
+                        "value": "script\/am-content\/Themes\/monkey\/public\/uploads\/2020-05-02-5ead2496c1430.png"
+                    },
+                    {
+                        "type": "text",
+                        "id": "counter_second_number",
+                        "label": "Total Number",
+                        "value": "177"
+                    },
+                    {
+                        "type": "text",
+                        "id": "counter_second_title",
+                        "label": "Title",
+                        "value": "TOTAL CLIENT"
+                    }
+                ]
+            },
+            {
+                "name": "Counter Third Section",
+                "id": "counter_third",
+                "settings": [
+                    {
+                        "type": "image",
+                        "id": "counter_third_img",
+                        "label": "Icon Image",
+                        "value": "script\/am-content\/Themes\/monkey\/public\/uploads\/2020-05-02-5ead249cc262b.png"
+                    },
+                    {
+                        "type": "text",
+                        "id": "counter_third_number",
+                        "label": "Total Number",
+                        "value": "1287"
+                    },
+                    {
+                        "type": "text",
+                        "id": "counter_third_title",
+                        "label": "Title",
+                        "value": "TOTAL AUTHOR"
+                    }
+                ]
+            },
+            {
+                "name": "Counter Four Section",
+                "id": "counter_four",
+                "settings": [
+                    {
+                        "type": "image",
+                        "id": "counter_four_img",
+                        "label": "Icon Image",
+                        "value": "script\/am-content\/Themes\/monkey\/public\/uploads\/2020-05-02-5ead24a466bd5.png"
+                    },
+                    {
+                        "type": "text",
+                        "id": "counter_four_number",
+                        "label": "Total Number",
+                        "value": "396"
+                    },
+                    {
+                        "type": "text",
+                        "id": "counter_four_title",
+                        "label": "Title",
+                        "value": "CUPS OF COFEE"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Team Area",
+        "id": "team",
+        "icon": "flaticon-team",
+        "settings": [
+            {
+                "type": "text",
+                "id": "team_title",
+                "label": "Title",
+                "value": "Our Team"
+            },
+            {
+                "type": "textarea",
+                "id": "team_des",
+                "label": "Team Description",
+                "value": "We help agencies to define their new business objectives and then create the road map."
+            }
+        ],
+        "content": null
+    },
+    {
+        "name": "Pricing Area",
+        "id": "pricing",
+        "icon": "flaticon-portfolio",
+        "settings": [
+            {
+                "type": "text",
+                "id": "pricing_title",
+                "label": "Pricing Title",
+                "value": "Pricing Table"
+            },
+            {
+                "type": "textarea",
+                "id": "pricing_des",
+                "label": "Pricing Description",
+                "value": "We help agencies to define their new business objectives and then create the road map."
+            }
+        ],
+        "content": null
+    },
+    {
+        "name": "Review Area",
+        "id": "testimonial",
+        "icon": "flaticon-tag",
+        "settings": [
+            {
+                "type": "bg_image",
+                "id": "review_bg_image",
+                "label": "Background Image",
+                "value": "script\/am-content\/Themes\/monkey\/public\/uploads\/2020-05-02-5ead257cce5d9.jpg"
+            }
+        ],
+        "content": null
+    },
+    {
+        "name": "Blog Area",
+        "id": "blog",
+        "icon": "flaticon-blogging",
+        "settings": [
+            {
+                "type": "text",
+                "id": "blog_title",
+                "label": "Blog Title",
+                "value": "Latest News"
+            },
+            {
+                "type": "textarea",
+                "id": "blog_des",
+                "label": "Blog Description",
+                "value": "We help agencies to define their new business objectives and then create the road map."
+            }
+        ],
+        "content": null
+    },
+    {
+        "name": "Footer Area",
+        "id": "footer",
+        "icon": "flaticon-footer",
+        "settings": [
+            {
+                "type": "bg_image",
+                "id": "footer_bg_image",
+                "label": "Footer Background Image",
+                "value": "script\/am-content\/Themes\/monkey\/public\/uploads\/2020-05-02-5ead25c7ba510.jpg"
+            },
+            {
+                "type": "image",
+                "id": "footer_logo",
+                "label": "Footer Logo",
+                "value": "script\/am-content\/Themes\/monkey\/public\/uploads\/2020-05-02-5ead25cfbf7ba.png"
+            },
+            {
+                "type": "textarea",
+                "id": "footer_des",
+                "label": "Footer Description",
+                "value": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+                "type": "text",
+                "id": "footer_copyright",
+                "label": "Footer Copyright",
+                "value": "Copyright @ 2020 Monkey. All Rights Reserved by Amcoders"
+            },
+            {
+                "type": "link",
+                "id": "footer_fb_link",
+                "label": "Facebook Page Link",
+                "value": "#"
+            },
+            {
+                "type": "link",
+                "id": "footer_twitter_link",
+                "label": "Twitter Profile Link",
+                "value": "#"
+            },
+            {
+                "type": "link",
+                "id": "footer_google_link",
+                "label": "Google Profile Link",
+                "value": "#"
+            },
+            {
+                "type": "link",
+                "id": "footer_linkedin_link",
+                "label": "Linkedin Profile Link",
+                "value": "#"
+            }
+        ],
+        "content": [
+            {
+                "name": "Footer Right Section",
+                "id": "footer_right",
+                "settings": [
+                    {
+                        "type": "text",
+                        "id": "footer_right_title",
+                        "label": "Title",
+                        "value": "Find Us"
+                    },
+                    {
+                        "type": "text",
+                        "id": "footer_right_phone",
+                        "label": "Phone Number",
+                        "value": "+1 (321) 984 754"
+                    },
+                    {
+                        "type": "text",
+                        "id": "footer_right_contact_number",
+                        "label": "Contact Number",
+                        "value": "+1 (281) 384 574"
+                    },
+                    {
+                        "type": "text",
+                        "id": "footer_right_email",
+                        "label": "Email",
+                        "value": "hello@amcoders.com"
+                    },
+                    {
+                        "type": "text",
+                        "id": "footer_right_support_email",
+                        "label": "Support Email",
+                        "value": "support@amcoder.com"
+                    },
+                    {
+                        "type": "text",
+                        "id": "footer_right_address",
+                        "label": "Address",
+                        "value": "28\/A Street, New York"
+                    }
+                ]
+            }
+        ]
+    }
+]
